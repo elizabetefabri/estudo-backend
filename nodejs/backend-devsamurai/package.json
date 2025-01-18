@@ -1,0 +1,11 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido com fins em aprendizado em nodejs",
+  "main": "index.js",
+  "author": "Elizabete de Sousa Fabri",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
